@@ -4,7 +4,10 @@ De volgende documenten zijn hierin aanwezig:
 - High Concept Document
 - Backlog
 - Sprintverslagen
-- Testverslagenm
+- Testverslagen
+
+Neem deze documentatie zorgvuldig door. Op basis hiervan kan er een goed beeld gevormt worden van het uiteindelijke doel, 
+Welke onderdelen er reeds gerealiseerd zijn en welke onderdelen nog opgepakt moeten worden.
 
 Daarnaast zijn er twee versies van de software beschikbaar in deze repository. Versie 2 is hierbij de meest actuele.
 Wanneer er in het vervolg een nieuwe versie wordt ontwikkeld dient deze als versie 3 geupload te worden naar deze Github repository.
